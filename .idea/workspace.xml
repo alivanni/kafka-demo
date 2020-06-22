@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4b5edeb-ae9a-4df6-aa20-61a3ddba7242" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1dUYUPDoQi4zTtcJtLuACRe9FNd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.demokafka.producer" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.demokafka" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MetricsObserverTest.start">
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demokafka.consumer.Consumer" />
+      <module name="KafkaProducerConsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demokafka.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.demokafka.Main" />
+      <module name="KafkaProducerConsumer" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.demokafka.producer.Producer" />
+      <module name="KafkaProducerConsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demokafka.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MetricsObserverTest.start" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="KafkaProducerConsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.demokafka.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.demokafka.producer" />
+      <option name="MAIN_CLASS_NAME" value="com.demokafka.producer.MetricsObserverTest" />
+      <option name="METHOD_NAME" value="start" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Producer" />
+      <item itemvalue="Application.Consumer" />
+      <item itemvalue="JUnit.MetricsObserverTest.start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MetricsObserverTest.start" />
+        <item itemvalue="Application.Producer" />
+        <item itemvalue="Application.Consumer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4b5edeb-ae9a-4df6-aa20-61a3ddba7242" name="Default Changelist" comment="" />
+      <created>1592481153458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592481153458</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="107" key="#Project_Structure" timestamp="1592482937308">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="320" y="107" key="#Project_Structure/0.23.1440.838@0.23.1440.838" timestamp="1592482937308" />
+    <state x="418" y="251" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592835714398">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="418" y="251" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.837@0.23.1440.837" timestamp="1592835714398" />
+    <state x="533" y="165" key="#com.intellij.ide.util.MemberChooser" timestamp="1592845789751">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="533" y="165" key="#com.intellij.ide.util.MemberChooser/0.23.1440.837@0.23.1440.837" timestamp="1592845789751" />
+    <state x="533" y="165" key="#com.intellij.ide.util.MemberChooser/0.23.1440.838@0.23.1440.838" timestamp="1592642707420" />
+    <state x="447" y="138" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1592481212942">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="447" y="138" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.838@0.23.1440.838" timestamp="1592481212942" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom" timestamp="1592849131047">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1592849131047" />
+    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1592644833364" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center" timestamp="1592849131046">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1592849131046" />
+    <state width="1398" height="217" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1592644833363" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left" timestamp="1592849131046">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1592849131046" />
+    <state width="1398" height="217" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1592644833362" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right" timestamp="1592849131047">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1592849131047" />
+    <state width="1398" height="217" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1592644833363" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1592499161816">
+      <screen x="0" y="23" width="1440" height="838" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.838@0.23.1440.838" timestamp="1592499161816" />
+    <state x="514" y="188" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1592845653723">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="514" y="188" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.837@0.23.1440.837" timestamp="1592845653723" />
+  </component>
+</project>
